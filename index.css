@@ -29,7 +29,7 @@ body {
 
 main {
 	background-color: var(--card-background);
-	max-height: 480px;
+	height: 480px;
 	max-width: 1200px;
 	border-radius: 20px;
 	display: grid;
@@ -113,7 +113,7 @@ main {
 
 	main {
 		background-color: var(--card-background);
-		max-height: 1200px;
+		height: 900px;
 		max-width: 340px;
 		border-radius: 20px;
 		display: grid;
