@@ -72,7 +72,7 @@ main {
 	grid-area: stats;
 	display: grid;
 	grid-template-columns: 0.3fr 0.3fr 0.3fr;
-	padding-top: 40px;
+	padding-top: 90px;
 	padding-left: 70px;
 }
 
