@@ -9,7 +9,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ![image](https://user-images.githubusercontent.com/50958126/160340257-0ba9bcc8-a310-4bbd-9a8d-29496d121e28.png)
 ![image](https://user-images.githubusercontent.com/50958126/160340378-87bea2e6-ab05-4ab5-8e96-13c16bc81915.png)
 
-
 ### Links
 - Solution URL: https://github.com/LiyanNguyen/stats-preview-card
 - Live Site URL: https://liyannguyen.github.io/stats-preview-card
@@ -20,7 +19,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - Flexbox
 - Grid
 - Mobile-first workflow
-
 
 ## Author
 - Website - [Liyan Anajao](https://liyannguyen.github.io/Portfolio)
